@@ -1,1 +1,1 @@
-![App Preview](PDF report OCR1.png)
+![App Preview](preview.PNG)
